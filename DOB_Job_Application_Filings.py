@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep  6 15:23:53 2018
-
-@author name: Ragavander Rohit Walthaty
-          ID: 999992844
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -124,11 +115,3 @@ plt.show()
 
 df.plot(kind='scatter', x='Proposed Height', y='Existing Zoning Sqft', rot=70)
 plt.show()
-
-
-
-
-
-# Import necessary modules
-
-
